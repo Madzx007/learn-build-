@@ -1,4 +1,4 @@
-![c7bae5ec-f078-4324-a4c9-99e90eaad020](https://github.com/Madzx007/learn-build-/assets/140810195/7baf4d8c-e14b-4769-8448-738c9beb3530)
+
 # learn-build-
 # Week - 1 fundamentals of azure 
 
