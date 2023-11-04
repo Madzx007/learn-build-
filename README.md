@@ -33,4 +33,5 @@ Some categories of network services consist of:
 Additionally, certain network designs and services exist, like:
 
 SASE (Secure Access Service Edge): This network design blends cloud-native security features with software-defined wide-area network (SD-WAN) capabilities. Users can access protected applications from any location with its help.
-
+![c4a6b52f-331e-4946-8702-b7c0830e5921](https
+://github.com/Madzx007/learn-build-/assets/140810195/b101a538-0a41-4516-89b4-6a46a66fea3b)
