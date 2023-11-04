@@ -57,3 +57,5 @@ Monitoring security is crucial to preserving the dependability, accessibility, a
 Role-based access control (RBAC)* is a security feature that limits authorized users' access to a system according to their position within an organization. It is a method for putting in place either discretionary access control (DAC) or mandatory access control (MAC). ². RBAC allows access based on a user's requirements specific to their role. *. 
 
 Built on top of Azure Resource Manager, *Azure role-based access control (Azure RBAC)* in Azure offers fine-grained access management to Azure resources. ³. You can control who can access Azure resources, what they can do with them, and which locations they can reach with its assistance ¹. Any user, group, service principal, or managed identity wanting access to Azure resources can have a role assigned to them.
+![6e8828ba-3464-4ecb-9754-2c4aa540145b](https://github.com/Madzx007/learn-build-/assets/140810195/5d8dae97-ad4f-4eae-8605-4bc7f6eb329d)
+# SIEM tool
