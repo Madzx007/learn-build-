@@ -19,3 +19,18 @@ Cloud providers such as Azure¹⁴ and Amazon Web capabilities (AWS) provide a v
 - Instances (virtual machines): Amazon Elastic computation Cloud (Amazon EC2) offers scalable and secure computation resources (virtual servers) in the cloud1.
 *Containers*: To run containers, use Amazon Elastic Container Service (Amazon ECS), which provides a very dependable, scalable, and safe solution1. 
 *Serverless*: You can run code without a server using AWS Lambda.
+![208a8ee6-dea2-4580-a27f-b28a0e7b1f02](https://github.com/Madzx007/learn-build-/assets/140810195/b7d41613-d1de-4019-8281-e878e144062f)
+
+# networking serivce 
+Applications that function at the network application layer are known as network services. They provide users with access to data and applications across a network2. Usually, servers6 are used to run these services. Examples of network services include the following:
+
+*Online gaming* - *Printing* - *File server* - *Directory services* - *Email* - *File sharing* - *Instant messaging* - *Video on demand* - *Video telephony*¹
+
+Some categories of network services consist of:
+
+- *Branch office and campus connectivity* - *Internet and cloud connectivity* - *Secure cloud-connectivity services* - *Virtual network services* 
+
+Additionally, certain network designs and services exist, like:
+
+SASE (Secure Access Service Edge): This network design blends cloud-native security features with software-defined wide-area network (SD-WAN) capabilities. Users can access protected applications from any location with its help.
+
