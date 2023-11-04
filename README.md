@@ -45,3 +45,9 @@ By selecting the New rule option from the pick list under Inbound Rules or Outbo
 
 You can use the following steps, for example, to establish an inbound rule in Windows Defender:1. Open the Group Policy Management Console to Windows Defender Firewall with Advanced Security.
 ![48902300-c052-470a-80f8-9ccb759b04ef](https://github.com/Madzx007/learn-build-/assets/140810195/2e618b82-a128-49fa-9641-b25785018c43)
+# IAM and security monitering
+The protection of an organization's data and resources is facilitated by Identity and Access Management (IAM), a critical component of contemporary IT1. It controls access to ensure that the proper persons, such as hackers, are prevented from entering and that the correct people can carry out their duties1. Verified entities have secure access to company resources, including databases, emails, data, and applications, thanks to IAM1.
+
+IAM consists of two components: access management and identity management.A login attempt is verified by identity management using an identity management database, which is a running list of all authorized users1. As individuals join or leave the company, their responsibilities and projects change, and the organization's scope changes, this data has to be updated on a regular basis1.
+
+Monitoring security is crucial to preserving the dependability, accessibility, and efficiency of IAM.
