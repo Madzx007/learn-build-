@@ -53,3 +53,7 @@ IAM consists of two components: access management and identity management.A logi
 Monitoring security is crucial to preserving the dependability, accessibility, and efficiency of IAM.
 ![5ad71541-5e9c-4382-9e3b-f892de986957](https://github.com/Madzx007/learn-build-/assets/140810195/971eb4b2-9e9d-4560-9a3c-e1cab7885c87)
 ![6e7d611d-fa51-473d-8871-cede4094b194](https://github.com/Madzx007/learn-build-/assets/140810195/b44930fc-807c-4a5c-a428-0a5648c94a14)
+# Role base access management
+Role-based access control (RBAC)* is a security feature that limits authorized users' access to a system according to their position within an organization. It is a method for putting in place either discretionary access control (DAC) or mandatory access control (MAC). ². RBAC allows access based on a user's requirements specific to their role. *. 
+
+Built on top of Azure Resource Manager, *Azure role-based access control (Azure RBAC)* in Azure offers fine-grained access management to Azure resources. ³. You can control who can access Azure resources, what they can do with them, and which locations they can reach with its assistance ¹. Any user, group, service principal, or managed identity wanting access to Azure resources can have a role assigned to them.
