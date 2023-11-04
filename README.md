@@ -44,4 +44,4 @@ Certain programs are allowed to access the internet while others are blocked by 
 By selecting the New rule option from the pick list under Inbound Rules or Outbound Rules, respectively, you can create new inbound and outbound rules. Either a bespoke rule or a pre-established protocol can be used. 
 
 You can use the following steps, for example, to establish an inbound rule in Windows Defender:1. Open the Group Policy Management Console to Windows Defender Firewall with Advanced Security.
-
+![48902300-c052-470a-80f8-9ccb759b04ef](https://github.com/Madzx007/learn-build-/assets/140810195/2e618b82-a128-49fa-9641-b25785018c43)
