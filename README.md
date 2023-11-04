@@ -51,3 +51,5 @@ The protection of an organization's data and resources is facilitated by Identit
 IAM consists of two components: access management and identity management.A login attempt is verified by identity management using an identity management database, which is a running list of all authorized users1. As individuals join or leave the company, their responsibilities and projects change, and the organization's scope changes, this data has to be updated on a regular basis1.
 
 Monitoring security is crucial to preserving the dependability, accessibility, and efficiency of IAM.
+![5ad71541-5e9c-4382-9e3b-f892de986957](https://github.com/Madzx007/learn-build-/assets/140810195/971eb4b2-9e9d-4560-9a3c-e1cab7885c87)
+![6e7d611d-fa51-473d-8871-cede4094b194](https://github.com/Madzx007/learn-build-/assets/140810195/b44930fc-807c-4a5c-a428-0a5648c94a14)
