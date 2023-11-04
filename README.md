@@ -62,10 +62,81 @@ Built on top of Azure Resource Manager, *Azure role-based access control (Azure 
 ![24fd2116-d4b2-458d-a952-1f614d78db13](https://github.com/Madzx007/learn-build-/assets/140810195/7a8192f8-48b2-4ecf-a41e-ed9a23d71492)
 splunk
 ![451a6bd8-0779-4d60-829c-e356f7f4f4c5](https://github.com/Madzx007/learn-build-/assets/140810195/254aaffd-cce8-4848-bd1b-5fc0720b4910)
+
 ibm Qradar
+
 ![image](https://github.com/Madzx007/learn-build-/assets/140810195/c1bb69d8-8a41-4114-a620-446e82b6fa84)
+
 Arcsight
+
 ![image](https://github.com/Madzx007/learn-build-/assets/140810195/bcc2e0e5-ca5b-442e-a077-81c88f1aced7)
+
+wazuh
+
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/2ecc3462-4cb2-4550-902e-f7b8aca7e581)
+
+# AZURE SENTINEL
+Azure Sentinel is a cloud-based service that delivers security orchestration, automation, and response (SOAR) capabilities as well as security information and event management (SIEM). It assists businesses in detecting, investigating, and responding to threats across their IT environment 123.
+
+Azure Sentinel collects and analyzes data from a variety of sources, including Microsoft solutions, Azure services, and third-party apps, utilizing artificial intelligence and threat intelligence. Users can also produce interactive reports, correlate alerts into incidents, automate and orchestrate routine processes, and search for suspicious behaviors at scale 145.
+
+Azure Sentinel is a scalable, cloud-native solution that requires no infrastructure or upkeep. It can be rapidly and easily installed, and it can be connected with other Azure services like Log Analytics and Logic Apps. The Azure Sentinel also supports Azure Lighthouse, which enables service providers to manage their customers' security from their own tenant ¹⁵.
+
+If you want to learn more about Azure Sentinel, you can visit the official website ⁵ or check out some of the online courses and tutorials ¹²³. You can also try Azure Sentinel for free for the first 31 days.
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/f1fcbd21-1b72-406f-93db-89bf29ce965c)
+
+# AlERt sYstem 
+An alert system alerts people to potential or imminent threats such as natural disasters, terrorist attacks, or health emergencies. To deliver urgent messages and instructions to the public, alert systems can use various channels such as broadcast media, mobile devices, sirens, or loudspeakers.
+
+Depending on their needs and capabilities, different countries may have different alert systems. The United Kingdom, for example, recently launched the Emergency Alerts service, which can send alerts to compatible mobile phones and tablets in a specific area 1. The Emergency Alert System (EAS) in the United States can interrupt regular programming on television and radio stations to broadcast emergency information 3.
+
+During an emergency, alert systems are intended to keep people safe and informed. They can provide valuable informations can also send alerts to mobile devices, as well as the Emergency Alert System, which can broadcast alerts on radio and television ³ .
+
+Alert systems are important tools for enhancing public safety and preparedness, especially in times of crisis. They can help save lives, reduce damages, and coordinate responses. However, alert systems also have some challenges, such as ensuring accuracy, timeliness, accessibility, and reliability of the messages, as well as avoiding false alarms, panic, or confusion among the recipients  . Therefore, alert systems need to be carefully designed, tested, and maintained, and follow best practices and standards.
+# KQL quary 
+KQL is a simple text-based query language used for filtering data. It is used to filter documents where a value for a field exists, matches a given value, or is within a given range. KQL only filters data, and has no role in aggregating, transforming, or sorting data. You can use range syntax for string values, IP addresses, and timestamps. For more information on how to use KQL, please refer to the official documentation provided by *Elastic* ¹.
+# mitre attack framework
+The *MITRE ATTACK®* framework is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations ¹. It is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community ¹. The framework is curated and tracks cyber adversary tactics and techniques used by threat actors across the entire attack lifecycle ². It is intended to be used as a tool to strengthen an organization's security posture ².
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/56a30495-23d7-4931-9c6f-b9253fa88816)
+
+# real time tracking on threats
+Real time tracking on threats is a process of monitoring and analyzing the cyberattacks that are happening around the world in real time. It can help to identify the sources, targets, types, and impacts of these attacks, as well as to provide countermeasures and solutions.
+
+There are several online tools that offer real time tracking on threats, such as:
+
+ *Radware Live Threat Map*: This tool shows the web attackers, DDoS attackers, intruders, scanners, and anonymizers that are attacking different countries and regions. It also provides statistics on the top attackers, attacked, application violations, and scanned ports ¹.
+- *Kaspersky Cyberthreat Real-Time Map*: This tool displays the cyberattacks that are detected by Kaspersky's network of sensors and products. It also provides statistics on the attack types, targets, sources, and rankings of countries and regions ²³.
+- *Check Point Live Cyber Threat Map*: This tool visualizes the cyberattacks that are blocked by Check Point's security solutions. It also provides statistics on the attack types, targets, sources, and rankings of countries and regions ⁴.
+
+These tools can help you to stay informed and aware of the cyberthreats that are affecting the world. However, they are not a substitute for having a robust and comprehensive cybersecurity strategy and protection.
+
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/5831d05c-ee16-4d28-862f-a9e00542e88c)
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/958c482b-de5b-4ff1-9638-03d0927b44ad)
+
+# real time protection 
+Real-time protection is a security feature that *prevents cyberattacks* by scanning your device for malware and other threats in the background ⁵. It is an important component of any good antivirus program, as it can help you avoid getting infected by malicious software.
+
+However, some users may want to disable real-time protection for various reasons, such as improving performance, installing certain programs, or testing their own security. If you are one of them, you should be aware of the risks and consequences of turning off real-time protection. You will be more vulnerable to cyberattacks and may compromise your data and privacy.
+
+If you still want to disable real-time protection, you can follow the steps shown in these videos ¹²³. They will guide you through different methods of turning off real-time protection on Windows 10, such as using the settings, the registry editor, or the group policy editor. Please note that these methods may not work for all versions of Windows 10, and you may need administrative privileges to perform them.
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/b9e48cb0-41ba-42b0-8b40-60ea7bdf5bbd)
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/e6446cdd-10ba-494e-96ed-a370ef702ed3)
+
+# BLUE TEAM
+In cybersecurity, a *blue team* is a group of security professionals responsible for *defending* an organization's information systems by maintaining its security posture against a group of mock attackers ¹⁵. The blue team is expected to detect, oppose, and weaken the red team, which is made up of offensive security experts who try to attack an organization's cybersecurity defenses ¹. The blue team is typically composed of incident response consultants who provide guidance to the IT security team on where to make improvements to stop sophisticated types of cyberattacks and threats.
+
+# attack stmulation
+Attack simulation is a technique used to simulate cyberattacks and breaches in an organization. It can help identify potential vulnerabilities in security systems and test out the detection and prevention capabilities ¹². 
+
+Microsoft Defender for Office 365 Plan 2 provides an *Attack simulation training* feature that allows you to run realistic attack scenarios in your organization. These simulated attacks can help you identify and find vulnerable users before a real attack impacts your bottom line ¹. 
+
+There are also other *Breach and Attack Simulation (BAS) tools* available in the market that can help you gain a deeper understanding of security posture vulnerabilities by automating testing of threat vectors such as external and insider, lateral movement, and data exfiltration. These tools can validate an organization's security posture by testing its ability to detect a portfolio of simulated attacks performed by SaaS platforms, software agents, and virtual machines. They can also generate detailed reports about security gaps and prioritize remediation efforts based on the risk level .
+k
+
+
+
+
+
 
 
 
