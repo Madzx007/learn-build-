@@ -34,3 +34,14 @@ Additionally, certain network designs and services exist, like:
 
 SASE (Secure Access Service Edge): This network design blends cloud-native security features with software-defined wide-area network (SD-WAN) capabilities. Users can access protected applications from any location with its help.
 ![c4a6b52f-331e-4946-8702-b7c0830e5921](https://github.com/Madzx007/learn-build-/assets/140810195/b101a538-0a41-4516-89b4-6a46a66fea3b)
+# Inbounded and outbounded rule creations
+Rules are designed to regulate traffic to and from your computer, both inbound and outgoing. 
+
+If you are hosting a web server on your computer, for instance, you can use *inbound rules* to enable external connections to your system1. 
+
+Certain programs are allowed to access the internet while others are blocked by *outbound rules*. Outbound policies by default permit all traffic on all protocols2.
+
+By selecting the New rule option from the pick list under Inbound Rules or Outbound Rules, respectively, you can create new inbound and outbound rules. Either a bespoke rule or a pre-established protocol can be used. 
+
+You can use the following steps, for example, to establish an inbound rule in Windows Defender:1. Open the Group Policy Management Console to Windows Defender Firewall with Advanced Security.
+
