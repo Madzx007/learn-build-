@@ -62,4 +62,10 @@ Built on top of Azure Resource Manager, *Azure role-based access control (Azure 
 ![24fd2116-d4b2-458d-a952-1f614d78db13](https://github.com/Madzx007/learn-build-/assets/140810195/7a8192f8-48b2-4ecf-a41e-ed9a23d71492)
 splunk
 ![451a6bd8-0779-4d60-829c-e356f7f4f4c5](https://github.com/Madzx007/learn-build-/assets/140810195/254aaffd-cce8-4848-bd1b-5fc0720b4910)
+ibm Qradar
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/c1bb69d8-8a41-4114-a620-446e82b6fa84)
+Arcsight
+![image](https://github.com/Madzx007/learn-build-/assets/140810195/bcc2e0e5-ca5b-442e-a077-81c88f1aced7)
+
+
 
